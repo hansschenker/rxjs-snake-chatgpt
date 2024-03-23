@@ -5,6 +5,9 @@ const BundleAnalyzerPlugin =
 
 module.exports = {
   mode: 'development',
+    resolve: {
+    extensions: ['.ts', '.js'],
+  },
   entry: {
     bundle: path.resolve(__dirname, 'src/index.ts'),
   },
