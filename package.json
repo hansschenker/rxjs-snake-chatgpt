@@ -24,6 +24,8 @@
     "webpack-dev-server": "^4.7.4"
   },
   "dependencies": {
-    "axios": "^0.26.1"
+    "@types/webaudioapi": "^0.0.27",
+    "axios": "^0.26.1",
+    "rxjs": "^7.8.1"
   }
 }
