@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@types/webaudioapi": "^0.0.27",
-    "axios": "^0.26.1",
+    "axios": "^1.7.7",
     "rxjs": "^7.8.1"
   }
 }
